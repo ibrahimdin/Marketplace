@@ -2,13 +2,6 @@
 
 # Marketplace starter kit
 
-> This Stelace starter kit is free to use, under the terms of the [MIT license](./LICENSE).
-Feel free to [fork](
-  https://app.netlify.com/start/deploy?repository=https://github.com/stelace/marketplace-demo
-), contribute or just make it your own :heart:.
-
----
-
 [![CircleCI](https://circleci.com/gh/stelace/marketplace-demo.svg?style=svg)](https://circleci.com/gh/stelace/marketplace-demo)[ ![Netlify Status](https://api.netlify.com/api/v1/badges/b3500c61-82b1-4cdd-a002-890a718ad5ea/deploy-status)](
   https://app.netlify.com/sites/stelace-marketplace-test/deploys
 )[ ![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-yellow.svg)](
